@@ -1,1 +1,3 @@
 Simple JGrep MCollective Data plugin
+
+Example usage : mco ping -v -S "jgrep('/etc/test.json','foobar=bar').match=true"
